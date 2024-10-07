@@ -305,6 +305,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJVCKQAL
 
+[Document16]
+DocumentPath=Fabrication.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=b5f5d3ba-21d2-4c25-8a3b-81b891fe910f
 Description=Default
@@ -316,6 +333,14 @@ Variation2=Designator=R132|UniqueId=\FPCCQONO\XRRVYFWV|Kind=1|AlternatePart=
 Variation3=Designator=R131|UniqueId=\FPCCQONO\FDBUDJKD|Kind=1|AlternatePart=
 Variation4=Designator=IC13|UniqueId=\FPCCQONO\RUERTSJE|Kind=1|AlternatePart=
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 8x8_Crosspoint_Switch\Fabrication\BOM\8x8_Crosspoint_Switch_1.0_[No Variations].xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for 8x8_Crosspoint_Switch\Fabrication\BOM\8x8_Crosspoint_Switch_1.0_Default.xlsx
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Revision
